@@ -1,0 +1,286 @@
+﻿COUNTRY_NAME	ALPHA_3_CODE	NUMERIC_CODE	CURRENCY_CODE
+Abkhazia	Z1A	901	RUB
+Afghanistan	AFG	4	AFN
+Akrotiri and Dhekelia	Z1B	902	EUR
+Åland Islands	ALA	248	EUR
+Albania	ALB	8	ALL
+Alderney	Z1C	903	GBP
+Alderney	Z1C	903	GBP
+Algeria	DZA	12	DZD
+American Samoa	ASM	16	USD
+Andorra	AND	20	EUR
+Angola	AGO	24	AOA
+Anguilla	AIA	660	XCD
+Antarctica	ATA	10	EMP
+Antigua and Barbuda	ATG	28	XCD
+Argentina	ARG	32	ARS
+Armenia	ARM	51	AMD
+Artsakh	Z1D	904	AMD
+Aruba	ABW	533	AWG
+Australia	AUS	36	AUD
+Austria	AUT	40	EUR
+Azerbaijan	AZE	31	AZN
+Bahamas (the)	BHS	44	BSD
+Bahrain	BHR	48	BHD
+Bangladesh	BGD	50	BDT
+Barbados	BRB	52	BBD
+Belarus	BLR	112	BYR
+Belgium	BEL	56	EUR
+Belize	BLZ	84	BZD
+Benin	BEN	204	XOF
+Bermuda	BMU	60	BMD
+Bhutan	BTN	64	BTN
+Bhutan	BTN	64	INR
+Bolivia (Plurinational State of)	BOL	68	BOB
+"Bonaire, Sint Eustatius and Saba"	BES	535	USD
+"Bonaire, Sint Eustatius and Saba"	BES	535	USD
+Bosnia and Herzegovina	BIH	70	BAM
+Botswana	BWA	72	BWP
+Bouvet Island	BVT	74	NOK
+Brazil	BRA	76	BRL
+British Indian Ocean Territory (the)	IOT	86	USD
+Brunei Darussalam	BRN	96	BND
+Brunei Darussalam	BRN	96	SGD
+Bulgaria	BGR	100	BGN
+Burkina Faso	BFA	854	XOF
+Burundi	BDI	108	BIF
+Cabo Verde	CPV	132	CVE
+Cambodia	KHM	116	KHR
+Cameroon	CMR	120	XAF
+Canada	CAN	124	CAD
+Cape Verde	Z1E	905	CVE
+Cayman Islands (the)	CYM	136	KYD
+Central African Republic (the)	CAF	140	XAF
+Chad	TCD	148	XAF
+Chile	CHL	152	CLP
+China	CHN	156	CNY
+Christmas Island	CXR	162	AUD
+Cocos (Keeling) Islands (the)	CCK	166	AUD
+Colombia	COL	170	COP
+Comoros (the)	COM	174	KMF
+Congo (the Democratic Republic of the)	COD	180	CDF
+Congo (the)	COG	178	XAF
+Cook Islands (the)	COK	184	NZD
+Cook Islands (the)	COK	184	NZD
+Costa Rica	CRI	188	CRC
+Côte d'Ivoire	CIV	384	XOF
+Croatia	HRV	191	HRK
+Cuba	CUB	192	CUC
+Cuba	CUB	192	CUP
+Curaçao	CUW	531	ANG
+Cyprus	CYP	196	EUR
+Czech Republic	Z1F	906	CZK
+Czechia	CZE	203	CZK
+Denmark	DNK	208	DKK
+Djibouti	DJI	262	DJF
+Dominica	DMA	212	XCD
+Dominican Republic (the)	DOM	214	DOP
+Ecuador	ECU	218	USD
+Egypt	EGY	818	EGP
+El Salvador	SLV	222	USD
+Equatorial Guinea	GNQ	226	XAF
+Eritrea	ERI	232	ERN
+Estonia	EST	233	EUR
+Eswatini	SWZ	748	SZL
+Eswatini	SWZ	748	ZAR
+Ethiopia	ETH	231	ETB
+Falkland Islands (the) [Malvinas]	FLK	238	FKP
+Faroe Islands (the)	FRO	234	DKK
+Faroe Islands (the)	FRO	234	FOK
+Fiji	FJI	242	FJD
+Finland	FIN	246	EUR
+France	FRA	250	EUR
+French Guiana	GUF	254	EUR
+French Polynesia	PYF	258	XPF
+French Southern Territories (the)	ATF	260	EUR
+Gabon	GAB	266	XAF
+Gambia (the)	GMB	270	GMD
+Georgia	GEO	268	GEL
+Germany	DEU	276	EUR
+Ghana	GHA	288	GHS
+Gibraltar	GIB	292	GIP
+Greece	GRC	300	EUR
+Greenland	GRL	304	DKK
+Grenada	GRD	308	XCD
+Guadeloupe	GLP	312	EUR
+Guam	GUM	316	USD
+Guatemala	GTM	320	GTQ
+Guernsey	GGY	831	GBP
+Guernsey	GGY	831	GBP
+Guinea	GIN	324	GNF
+Guinea-Bissau	GNB	624	XOF
+Guyana	GUY	328	GYD
+Haiti	HTI	332	HTG
+Heard Island and McDonald Islands	HMD	334	AUD
+Holy See (the)	VAT	336	EUR
+Honduras	HND	340	HNL
+Hong Kong	HKG	344	HKD
+Hungary	HUN	348	HUF
+Iceland	ISL	352	ISK
+India	IND	356	INR
+Indonesia	IDN	360	IDR
+Iran (Islamic Republic of)	IRN	364	IRR
+Iraq	IRQ	368	IQD
+Ireland	IRL	372	EUR
+Isle of Man	IMN	833	GBP
+Isle of Man	IMN	833	GBP
+Israel	ISR	376	ILS
+Italy	ITA	380	EUR
+Jamaica	JAM	388	JMD
+Japan	JPN	392	JPY
+Jersey	JEY	832	GBP
+Jersey	JEY	832	JEP
+Jordan	JOR	400	JOD
+Kazakhstan	KAZ	398	KZT
+Kenya	KEN	404	KES
+Kiribati	KIR	296	AUD
+Kiribati	KIR	296	KID
+Korea (the Democratic People's Republic of)	PRK	408	KPW
+Korea (the Republic of)	KOR	410	KRW
+Kosovo	Z1G	907	EUR
+Kuwait	KWT	414	KWD
+Kyrgyzstan	KGZ	417	KGS
+Lao People's Democratic Republic (the)	LAO	418	LAK
+Latvia	LVA	428	EUR
+Lebanon	LBN	422	LBP
+Lesotho	LSO	426	LSL
+Lesotho	LSO	426	ZAR
+Liberia	LBR	430	LRD
+Libya	LBY	434	LYD
+Liechtenstein	LIE	438	CHF
+Lithuania	LTU	440	EUR
+Luxembourg	LUX	442	EUR
+Macao	MAC	446	HKD
+Macao	MAC	446	MOP
+Madagascar	MDG	450	MGA
+Malawi	MWI	454	MWK
+Malaysia	MYS	458	MYR
+Maldives	MDV	462	MVR
+Mali	MLI	466	XOF
+Malta	MLT	470	EUR
+Marshall Islands (the)	MHL	584	USD
+Martinique	MTQ	474	EUR
+Mauritania	MRT	478	MRU
+Mauritius	MUS	480	MUR
+Mayotte	MYT	175	EUR
+Mexico	MEX	484	MXN
+Micronesia (Federated States of)	FSM	583	USD
+Moldova (the Republic of)	MDA	498	MDL
+Monaco	MCO	492	EUR
+Mongolia	MNG	496	MNT
+Montenegro	MNE	499	EUR
+Montserrat	MSR	500	XCD
+Morocco	MAR	504	MAD
+Mozambique	MOZ	508	MZN
+Myanmar	MMR	104	MMK
+Namibia	NAM	516	NAD
+Namibia	NAM	516	ZAR
+Nauru	NRU	520	AUD
+Nepal	NPL	524	NPR
+Netherlands (the)	NLD	528	EUR
+New Caledonia	NCL	540	XPF
+New Zealand	NZL	554	NZD
+Nicaragua	NIC	558	NIO
+Niger (the)	NER	562	XOF
+Nigeria	NGA	566	NGN
+Niue	NIU	570	NZD
+Norfolk Island	NFK	574	AUD
+North Macedonia	MKD	807	MKD
+Northern Cyprus	Z1H	908	TRY
+Northern Mariana Islands (the)	MNP	580	USD
+Norway	NOR	578	NOK
+Oman	OMN	512	OMR
+Pakistan	PAK	586	PKR
+Palau	PLW	585	USD
+"Palestine, State of"	PSE	275	ILS
+"Palestine, State of"	PSE	275	JOD
+Panama	PAN	591	PAB
+Panama	PAN	591	USD
+Papua New Guinea	PNG	598	PGK
+Paraguay	PRY	600	PYG
+Peru	PER	604	PEN
+Philippines (the)	PHL	608	PHP
+Pitcairn	PCN	612	NZD
+Pitcairn	PCN	612	NZD
+Poland	POL	616	PLN
+Portugal	PRT	620	EUR
+Puerto Rico	PRI	630	USD
+Qatar	QAT	634	QAR
+Réunion	REU	638	EUR
+Romania	ROU	642	RON
+Russian Federation (the)	RUS	643	RUB
+Rwanda	RWA	646	RWF
+Sahrawi Republic	Z1I	909	DZD
+Sahrawi Republic	Z1I	909	MAD
+Sahrawi Republic	Z1I	909	MRU
+Saint Barthélemy	BLM	652	EUR
+"Saint Helena, Ascension and Tristan da Cunha"	SHN	654	SHP
+Saint Kitts and Nevis	KNA	659	XCD
+Saint Lucia	LCA	662	XCD
+Saint Martin (French part)	MAF	663	EUR
+Saint Pierre and Miquelon	SPM	666	EUR
+Saint Vincent and the Grenadines	VCT	670	XCD
+Samoa	WSM	882	WST
+San Marino	SMR	674	EUR
+Sao Tome and Principe	STP	678	STN
+Saudi Arabia	SAU	682	SAR
+Senegal	SEN	686	XOF
+Serbia	SRB	688	RSD
+Seychelles	SYC	690	SCR
+Sierra Leone	SLE	694	SLL
+Singapore	SGP	702	BND
+Singapore	SGP	702	SGD
+Sint Maarten (Dutch part)	SXM	534	ANG
+Slovakia	SVK	703	EUR
+Slovenia	SVN	705	EUR
+Solomon Islands	SLB	90	SBD
+Somalia	SOM	706	SOS
+Somaliland	Z1J	910	SLS
+South Africa	ZAF	710	ZAR
+South Georgia and the South Sandwich Islands	SGS	239	GBP
+South Ossetia	Z1K	911	RUB
+South Sudan	SSD	728	SSP
+Spain	ESP	724	EUR
+Sri Lanka	LKA	144	LKR
+Sudan (the)	SDN	729	SDG
+Suriname	SUR	740	SRD
+Svalbard and Jan Mayen	SJM	744	NOK
+Sweden	SWE	752	SEK
+Switzerland	CHE	756	CHF
+Syrian Arab Republic (the)	SYR	760	SYP
+Taiwan (Province of China)	TWN	158	TWD
+Tajikistan	TJK	762	TJS
+"Tanzania, the United Republic of"	TZA	834	TZS
+Thailand	THA	764	THB
+Timor-Leste	TLS	626	USD
+Togo	TGO	768	XOF
+Tokelau	TKL	772	NZD
+Tonga	TON	776	TOP
+Transnistria	Z1L	912	PRB
+Trinidad and Tobago	TTO	780	TTD
+Tunisia	TUN	788	TND
+Turkey	TUR	792	TRY
+Turkmenistan	TKM	795	TMT
+Turks and Caicos Islands (the)	TCA	796	USD
+Tuvalu	TUV	798	AUD
+Tuvalu	TUV	798	TVD
+Uganda	UGA	800	UGX
+Ukraine	UKR	804	UAH
+United Arab Emirates (the)	ARE	784	AED
+United Kingdom of Great Britain and Northern Ireland (the)	GBR	826	GBP
+United States Minor Outlying Islands (the)	UMI	581	USD
+United States of America (the)	USA	840	USD
+Uruguay	URY	858	UYU
+Uzbekistan	UZB	860	UZS
+Vanuatu	VUT	548	VUV
+Venezuela (Bolivarian Republic of)	VEN	862	VED
+Venezuela (Bolivarian Republic of)	VEN	862	VES
+Viet Nam	VNM	704	VND
+Virgin Islands (British)	VGB	92	USD
+Virgin Islands (U.S.)	VIR	850	USD
+Wallis and Futuna	WLF	876	XPF
+Western Sahara	ESH	732	MAD
+Western Sahara	ESH	732	DZD
+Yemen	YEM	887	YER
+Zambia	ZMB	894	ZMW
+Zimbabwe	ZWE	716	RTG
