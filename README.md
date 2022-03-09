@@ -31,9 +31,9 @@ Example:
               
               "standard_code":"F",
               
-              "unit_singular":"Jersey pound",
+              "currency":"Jersey pound",
               
-              "currency":"Sterling",
+              "unit_singular":"Sterling",
               
               "unit_plural":"Sterlings",
               
