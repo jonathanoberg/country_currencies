@@ -198,13 +198,13 @@
               "currency_code":"BOB"
               },
 "BES":{
-              "country_name":""Bonaire, Sint Eustatius and Saba"",
+              "country_name":"Bonaire, Sint Eustatius and Saba",
               "country_code":"BES",
               "numeric_code":"535",
               "currency_code":"USD"
               },
 "BES":{
-              "country_name":""Bonaire, Sint Eustatius and Saba"",
+              "country_name":"Bonaire, Sint Eustatius and Saba",
               "country_code":"BES",
               "numeric_code":"535",
               "currency_code":"USD"
@@ -1158,13 +1158,13 @@
               "currency_code":"USD"
               },
 "PSE":{
-              "country_name":""Palestine, State of"",
+              "country_name":"Palestine, State of",
               "country_code":"PSE",
               "numeric_code":"275",
               "currency_code":"ILS"
               },
 "PSE":{
-              "country_name":""Palestine, State of"",
+              "country_name":"Palestine, State of",
               "country_code":"PSE",
               "numeric_code":"275",
               "currency_code":"JOD"
@@ -1290,7 +1290,7 @@
               "currency_code":"EUR"
               },
 "SHN":{
-              "country_name":""Saint Helena, Ascension and Tristan da Cunha"",
+              "country_name":"Saint Helena, Ascension and Tristan da Cunha",
               "country_code":"SHN",
               "numeric_code":"654",
               "currency_code":"SHP"
@@ -1506,7 +1506,7 @@
               "currency_code":"TJS"
               },
 "TZA":{
-              "country_name":""Tanzania, the United Republic of"",
+              "country_name":"Tanzania, the United Republic of",
               "country_code":"TZA",
               "numeric_code":"834",
               "currency_code":"TZS"
