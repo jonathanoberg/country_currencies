@@ -10,7 +10,7 @@ Contains:
 - position of the symbol (before or after the value)
 
 
-Each country may have more than one currency.
+Each country may have more than one currency, there are three files: curreny, countries, and country_currencies to reflect that data model.
 
 Includes "countries" which may not be recognized by ISO or other standards orgs.  Those will have negative numeric country codes (e.g. -999) and 3-character alpha codes starting with an numeric value.
 
