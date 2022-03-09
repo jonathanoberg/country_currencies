@@ -1,0 +1,166 @@
+﻿CURRENCY_CODE	CURRENCY_NUMBER	ISO_CODE	CURRENCY	UNIT_SINGULAR	UNIT_PLURAL	SUBUNIT_SINGULAR	SUBUNIT_PLURAL	SUBUNITS_PER_UNIT	DIGITS_AFTER_DECIMAL	CURRENCY_SYMBOL	SYMBOL_BEFORE_VALUE
+AED	784	T	United Arab Emirates dirham	Diram	Dirhams	Fil	Fils	100	2	د.إ	F
+AFN	971	T	Afghan afghani	Afghani	Afghanis	Pul	Puls	100	2	؋	F
+ALL	8	T	Albanian lek	Lek	Lekë	Qindarkë	Qindarka	100	2	L	F
+AMD	51	T	Armenian dram	Dram	Drams	Luma	Lumma	100	2	֏	F
+ANG	532	T	Netherlands Antillean guilder	Guilder	Guilders	Cent	Cents	100	2	ƒ	T
+AOA	973	T	Angolan kwanza	Kwanza	Kwanzas	Lei	Lwei	100	2	Kz	F
+ARS	32	T	Argentine peso	Peso	Pesos	Centavo	Centavos	100	2	$	T
+AUD	36	T	Australian dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+AWG	533	T	Aruban guilder	Guilder	Guilders	Cent	Cents	100	2	ƒ	T
+AZN	944	T	Azerbaijani manat	Manat	Manats	Qəpik	Qäpi	100	2	₼	T
+BAM	977	T	Bosnia and Herzegovina convertible mark	Mark	Marks	Fening	Fening	100	2	KM	F
+BBD	52	T	Barbados dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+BDT	50	T	Bangladeshi taka	Taka	Takas	Poisha	Poisha	100	2	৳	T
+BGN	975	T	Bulgarian lev	Lev	Leva	Stotinka	Stotinki	100	2	лв.	F
+BHD	48	T	Bahraini dinar	Dinar	Dinars	Fil	Fils	1000	3	.د.ب	T
+BIF	108	T	Burundian franc	Franc	Francs	Centime	Centimes	100	0	Fr	T
+BMD	60	T	Bermudian dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+BND	96	T	Brunei dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+BOB	68	T	Boliviano	Boliviano	Bolivianos	Centavo	Centavos	100	2	Bs.	T
+BRL	986	T	Brazilian real	Real	Reais	Centavo	Centavob	100	2	R$	T
+BSD	44	T	Bahamian dollar	Dollar	Dollars	Cent	Centb	100	2	$	T
+BTN	64	T	Bhutanese ngultrum	Ngultrum	Ngultrum	Chetrum	Chetrumb	100	2	Nu.	F
+BWP	72	T	Botswana pula	Pula	Pula	Thebe	Thebeb	100	2	P	F
+BYR	-999	F	Belarusian ruble	Ruble	Rubles	Kapyeyka	Kapyeykab	100	2	Br	F
+BZD	84	T	Belize dollar	Dollar	Dollars	Cent	Centb	100	2	$	T
+CAD	124	T	Canadian dollar	Dollar	Dollars	Cent	Centc	100	2	$	T
+CDF	976	T	Congolese franc	Franc	Francs	Centime	Centimec	100	2	Fr	T
+CHF	756	T	Swiss franc	Franc	Francs	Centime	Centimes	100	2	Fr.	T
+CLP	152	T	Chilean peso	Peso	Pesos	Centavo	Centavoc	100	0	$	T
+CNY	156	T	Chinese yuan	Yuan	Yuan	Jiao[J]	Jiao[J]n	10	2	¥	T
+COP	170	T	Colombian peso	Peso	Pesos	Centavo	Centavoc	100	2	$	T
+CRC	188	T	Costa Rican colon	Colon	Colones	Céntimo	Céntimoc	100	2	₡	T
+CUC	931	T	Cuban convertible peso	Peso	Pesos	Centavo	Centavoc	100	2	CUC$	T
+CUP	192	T	Cuban peso	Peso	Pesos	Centavo	Centavoc	100	2	$	T
+CVE	132	T	Cape Verdean escudo	Escudo	Escudos	Centavo	Centavoc	100	2	Esc	F
+CZK	203	T	Czech koruna	Koruna	Koruny	Haléř	Haléřc	100	2	Kč	T
+DJF	262	T	Djiboutian franc	Franc	Francs	Centime	Centimed	100	0	Fr	T
+DKK	208	T	Danish krone	Krone	Kroner	Øre	Øree	100	2	kr	T
+DOP	214	T	Dominican peso	Peso	Pesos	Centavo	Centavod	100	2	RD$	T
+DZD	12	T	Algerian dinar	Dinar	Dinars	Santeem	Santeema	100	2	د.ج	T
+EGP	818	T	Egyptian pound	Pound	Pounds	Piastre[B]	Piastre[B]e	100	2	ج.م	T
+EMP	-998	F	Antarctic Dollar	Penguin	Penguins	Cent	Centa	100	2	$	T
+ERN	232	T	Eritrean nakfa	Nakfa	Nafkei	Cent	Cente	100	2	Nfk	F
+ETB	230	T	Ethiopian birr	Birr	Birrs	Santim	Santime	100	2	Br	T
+EUR	978	T	Euro	Euro	Euros	Cent	Cente	100	2	€	T
+FJD	242	T	Fiji dollar	Dollar	Dollars	Cent	Centf	100	2	$	T
+FKP	238	T	Falkland Islands pound	Pound	Pounds	Penny	Pennyf	100	2	£	T
+FOK	-997	F	Faroese Krona	 g	Krones	Oyra	Oyraf	100	2	FOK	F
+GBP	826	T	Pound sterling	Sterling	Sterlings	Penny	Pennies	100	2	£	T
+GEL	981	T	Georgian lari	Lari	Laris	Tetri	Tetrig	100	2	₾	T
+GHS	936	T	Ghanaian cedi	Cedi	Cedis	Pesewa	Pesewag	100	2	₵	T
+GIP	292	T	Gibraltar pound	Pound	Pounds	Penny	Pennyg	100	2	£	T
+GMD	270	T	Gambian dalasi	Dalasi	Delasis	Butut	Bututg	100	2	D	T
+GNF	324	T	Guinean franc	Franc	Francs	Centime	Centimeg	100	0	Fr	T
+GTQ	320	T	Guatemalan quetzal	Quetzal	Quetzales	Centavo	Centavog	100	2	Q	T
+GYD	328	T	Guyanese dollar	Dollar	Dollars	Cent	Centg	100	2	$	T
+HKD	344	T	Hong Kong dollar	Dollar	Dollars	Cent	Centh	100	2	$	T
+HNL	340	T	Honduran lempira	Lempira	Lempiras	Centavo	Centavoh	100	2	L	T
+HRK	191	T	Croatian kuna	Kuna	Kune	Lipa	Lipan	100	2	kn	T
+HTG	332	T	Haitian gourde	Gourde	Gourdes	Centime	Centimeh	100	2	G	T
+HUF	348	T	Hungarian forint	Forint	Forints	Fillér	Fillérh	100	2	Ft	T
+IDR	360	T	Indonesian rupiah	Rupiah	Rupiahs	Sen	Seni	100	2	Rp	T
+ILS	376	T	Israeli new shekel	Shekel	Shekelim	Agora	Agorai	100	2	₪	T
+INR	356	T	Indian rupee	Rupee	Rupees	Paisa	Paisai	100	2	₹	T
+IQD	368	T	Iraqi dinar	Dinar	Dinars	Fils	Filsi	1000	3	ع.د	T
+IRR	364	T	Iranian rial	Rial	Rials	Rial	Riali	1	2	﷼	T
+ISK	352	T	Icelandic króna	Króna	Krónur	Eyrir	Eyrirr	100	0	kr	T
+JEP	-996	F	Jersey pound	Sterling	Sterlings	Penny	Pennies	100	2	J£	T
+JMD	388	T	Jamaican dollar	Dollar	Dollars	Cent	Centj	100	2	$	T
+JOD	400	T	Jordanian dinar	Dinar	Dollars	Piastre[M]	Piastre[M]j	100	3	د.ا	T
+JPY	392	T	Japanese yen	Yen	Yen	Sen[C]	Sen[C]j	100	0	¥	T
+KES	404	T	Kenyan shilling	Shilling	Shilings	Cent	Centk	100	2	Sh	T
+KGS	417	T	Kyrgyzstani som	Som	Som	Tyiyn	Tyiyn 	100	2	с	T
+KHR	116	T	Cambodian riel	Riel	Riels	Sen	Senc	100	2	៛	T
+KID	-995	F	Kiribati Dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+KMF	174	T	Comoro franc	Franc	Francs	Centime	Centimec	100	0	Fr	T
+KPW	408	T	North Korean won	Won	Won	Chon	Chonn	100	2	₩	T
+KRW	410	T	South Korean won	Won	Won	Jeon	Jeons	100	0	₩	T
+KWD	414	T	Kuwaiti dinar	Dinar	Dinars	Fils	Filsk	1000	3	د.ك	T
+KYD	136	T	Cayman Islands dollar	Dollar	Dollars	Cent	Centc	100	2	$	T
+KZT	398	T	Kazakhstani tenge	Tenge	Tenges	Tıyn	Tıynk	100	2	₸	T
+LAK	418	T	Lao kip	Kip	Kips	Att	Attl	100	2	₭	T
+LBP	422	T	Lebanese pound	Pound	Pounds	Piastre	Piastrel	100	2	ل.ل	T
+LKR	144	T	Sri Lankan rupee	Rupee	Rupees	Cent	Cents	100	2	ரூ	T
+LRD	430	T	Liberian dollar	Dollar	Dollars	Cent	Centl	100	2	$	T
+LSL	426	T	Lesotho loti	Loti	Maloti	Sente	Sentel	100	2	L	T
+LYD	434	T	Libyan dinar	Dinar	Dinars	Dirham	Dirhaml	1000	3	ل.د	T
+MAD	504	T	Moroccan dirham	Dirham	Dirhams	Centime	Centimem	100	2	د. م.	T
+MDL	498	T	Moldovan leu	Leu	Lei	Ban	Banm	100	2	L	T
+MGA	969	T	Malagasy ariary	Ariary	Ariares	Iraimbilanja	Iraimbilanjam	5	2	Ar	T
+MKD	807	T	Macedonian denar	Denar	Denars	Deni	Denid	100	2	ден	F
+MMK	104	T	Myanmar kyat	Kyat	Kyats	Pya	Pyam	100	2	Ks	T
+MNT	496	T	Mongolian tögrög	 Tögrög	 Tögrög	Möngö	Möngöm	100	2	₮	T
+MOP	446	T	Macanese pataca	Pataca	Patacas	Avo	Avom	100	2	MOP$	T
+MRU	-994	F	Mauritanian ouguiya	Ouguiya	Ouguiyas	Khoums	Khoumsm	5	2	UM	F
+MUR	480	T	Mauritian rupee	Rupee	Rupees	Cent	Centm	100	2	₨	T
+MVR	462	T	Maldivian rufiyaa	Rufiyaa	Rufiyaas	Laari	Laarim	100	2	.ރ	T
+MWK	454	T	Malawian kwacha	Kwacha	Kwachas	Tambala	Tambalam	100	2	MK	F
+MXN	484	T	Mexican peso	Peso	Pesos	Centavo	Centavom	100	2	$	T
+MYR	458	T	Malaysian ringgit	Ringgit	Ringgit	Sen	Senm	100	2	RM	F
+MZN	943	T	Mozambican metical	Metical	Meticais	Centavo	Centavom	100	2	MT	F
+NAD	516	T	Namibian dollar	Dollar	Dollars	Cent	Centn	100	2	$	T
+NGN	566	T	Nigerian naira	Naira	Nairas	Kobo	Kobon	100	2	₦	T
+NIO	558	T	Nicaraguan córdoba	Córdoba	Córdobas	Centavo	Centavon	100	2	C$	T
+NOK	578	T	Norwegian krone	Krone	Kroner	Øre	Ører	100	2	kr	T
+NPR	524	T	Nepalese rupee	Rupee	Rupees	Paisa	Paisan	100	2	रू	T
+NZD	554	T	New Zealand dollar	Dollar	Dollars	Cent	Centn	100	2	$	T
+OMR	512	T	Omani rial	Rial	Rials	Baisa	Baisao	1000	3	ر.ع.	T
+PAB	590	T	Panamanian balboa	Balboa	Balboas	Centésimo	Centésimop	100	2	B/.	T
+PEN	604	T	Peruvian sol	Nuevo Sol	Nuevo Soles	Céntimo	Céntimop	100	2	S/.	T
+PGK	598	T	Papua New Guinean kina	Kina	Kina	Toea	Toeap	100	2	K	T
+PHP	608	T	Philippine peso[13]	Peso	Pesos	Sentimo	Sentimop	100	2	₱	T
+PKR	586	T	Pakistani rupee	Rupee	Rupees	Paisa	Paisap	100	2	₨	T
+PLN	985	T	Polish złoty	Zloty	Zlotys	Grosz	Groszy	100	2	zł	T
+PRB	-993	F	Transnistria ruble	Ruble	Rubles	Kopeck	Kopecks	100	2	Prb	F
+PYG	600	T	Paraguayan guaraní	Guaraní	Guaranís	Céntimo	Céntimop	100	0	₲	T
+QAR	634	T	Qatari riyal	Riyal	Riyalane	Dirham	Dirhamq	100	2	ر.ق	T
+RON	946	T	Romanian leu	Leu	Lei	Ban	Banu	100	2	lei	F
+RSD	941	T	Serbian dinar	Dinar	Dinars	Para	Paraa	100	2	дин.	T
+RTG	-992	F	Zimdollar	Zollar	Zollars	Cent	Cents	100	2	Z$	T
+RUB	643	T	Russian ruble	Ruble	Rubles	Kopek	Kopekr	100	2	₽	T
+RWF	646	T	Rwandan franc	Franc	Francs	Centime	Centimer	100	0	Fr	T
+SAR	682	T	Saudi riyal	Riyal	Riyalane	Halala	Halalas	100	2	﷼	T
+SBD	90	T	Solomon Islands dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+SCR	690	T	Seychelles rupee	Rupee	Rupees	Cent	Cents	100	2	₨	T
+SDG	938	T	Sudanese pound	Pound	Pounds	Piastre	Piastres	100	2	ج.س.	T
+SEK	752	T	Swedish krona	Krona	Kronor	Öre	Ören	100	2	kr	T
+SGD	702	T	Singapore dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+SHP	654	T	Saint Helena pound	Pound	Pounds	Penny	Pennys	100	2	£	T
+SLL	694	T	Sierra Leonean leone	Leone	Leones	Cent	Cents	100	2	Le	T
+SLS	-991	F	Somaliland shilling	Shilling	Shillings	Cent	Cents	100	2	Sh	T
+SOS	706	T	Somali shilling	Shilling	Shillings	Cent	Cents	100	2	Sh	T
+SRD	968	T	Surinamese dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+SSP	728	T	South Sudanese pound	Pound	Pounds	Piaster	Piasters	100	2	£	T
+STN	-990	F	São Tomé and Príncipe dobra	Dobra	Dobras	Cêntimo	Cêntimos	100	2	Db	T
+SVC	222	T	Salvadoran colón	Colón	Colones	Centavo	Centavos	100	2	₡	T
+SYP	760	T	Syrian pound	Pound	Pounds	Piastre	Piastres	100	2	 ل.س	T
+SZL	748	T	Swazi lilangeni	Lilangeni	Emalangeni	Cent	Cents	100	2	L	T
+THB	764	T	Thai baht	Baht	Bahts	Satang	Satangs	100	2	฿	T
+TJS	972	T	Tajikistani somoni	Somoni	Somonis	Diram	Diram	100	2	с.	T
+TMT	934	T	Turkmenistan manat	Manat	Manats	Tenne	Tennesi	100	2	m.	T
+TND	788	T	Tunisian dinar	Dinar	Dinars	Millime	Millime	1000	3	د.ت	T
+TOP	776	T	Tongan paʻanga	Pa'anga	Pa'anga	Seniti	Seniti	100	2	T$	T
+TRY	949	T	Turkish lira	Lira	Lire	Kuruş	Kuruses	100	2	₺	T
+TTD	780	T	Trinidad and Tobago dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+TVD	-990	F	Tuvaluan dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+TWD	901	T	New Taiwan dollar	Dollar	Dollars	Cent	Centn	100	2	$	T
+TZS	834	T	Tanzanian shilling	Shilling	Shillings	Cent	Cents	100	2	Sh	T
+UAH	980	T	Ukrainian hryvnia	Hryvnia	Hryvni	Kopiyka	Kopiyky	100	2	₴	T
+UGX	800	T	Ugandan shilling	Shilling	Shillings	(none)	(none)	1	0	USh	T
+USD	840	T	United States dollar	Dollar	Dollars	Cent	Cents	100	2	$	T
+UYU	858	T	Uruguayan peso	Peso	Pesos	Centésimo	Centesimos	100	2	$	T
+UZS	860	T	Uzbekistan som	Som	Som	Tiyin	Tiyin	100	2	Sʻ	T
+VED	926	T	Venezuelan bolívar digital	Bolivar Digital	Bolivar Digital	Céntimo	Centimos	100	2	Bs.	T
+VES	928	T	Venezuelan bolívar soberano	Bolivar Soberano	Bolivar Soberanos	Céntimo	Centimos	100	2	Bs.S.	T
+VND	704	T	Vietnamese đồng	Dồng	Dồngok	(none)	(none)	1	0	₫	T
+VUV	548	T	Vanuatu vatu	Vatu	Vatusor	Cent	Cents	100	0	Vt	T
+WST	882	T	Samoan tala	Tala	Talas	Sene	Senes	100	2	T	T
+XAF	950	T	Central African franc	Franc	Francs	Centime	Centimes	100	2	FCFA	F
+XCD	951	T	East Caribbean dollar	Dollar	Dollars	Cent	Cente	100	2	$	T
+XOF	952	T	West African  franc	Franc	Francs	Centime	Centimes	100	2	CFA	F
+XPF	953	T	Change franc Pacifique	Franc	Francs	Centime	Centimes	100	2	₣	T
+YER	886	T	Yemeni rial	Rial	Rials	Fil	Fils	100	2	﷼	T
+ZAR	710	T	South African rand	Rand	Rands	Cent	Cents	100	2	R	T
+ZMW	967	T	Zambian kwacha	Kwacha	Kwachas	Ngwee	Ngwee	100	2	ZK	F
