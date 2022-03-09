@@ -1260,8 +1260,8 @@
               "numeric_code":"585"
               },
 "PSE":{
-              "english_short_name":""Palestine, State of"",
-              "french_short_name":""Palestine, État de"",
+              "english_short_name":"Palestine, State of",
+              "french_short_name":"Palestine, État de",
               "alpha_2_code":"PS",
               "alpha_3_code":"PSE"
               "numeric_code":"275"
@@ -1540,7 +1540,7 @@
               "numeric_code":"762"
               },
 "TZA":{
-              "english_short_name":""Tanzania, the United Republic of"",
+              "english_short_name":"Tanzania, the United Republic of",
               "french_short_name":"Tanzanie (la République-Unie de)",
               "alpha_2_code":"TZ",
               "alpha_3_code":"TZA"
@@ -1736,8 +1736,8 @@
               "numeric_code":"910"
               },
 "BES":{
-              "english_short_name":""Bonaire, Sint Eustatius and Saba"",
-              "french_short_name":""Bonaire, Saint-Eustache et Saba"",
+              "english_short_name":"Bonaire, Sint Eustatius and Saba",
+              "french_short_name":"Bonaire, Saint-Eustache et Saba",
               "alpha_2_code":"BQ",
               "alpha_3_code":"BES"
               "numeric_code":"535"
@@ -1750,8 +1750,8 @@
               "numeric_code":"678"
               },
 "SHN":{
-              "english_short_name":""Saint Helena, Ascension and Tristan da Cunha"",
-              "french_short_name":""Sainte-Hélène, Ascension et Tristan da Cunha"",
+              "english_short_name":"Saint Helena, Ascension and Tristan da Cunha",
+              "french_short_name":"Sainte-Hélène, Ascension et Tristan da Cunha",
               "alpha_2_code":"SH",
               "alpha_3_code":"SHN"
               "numeric_code":"654"
